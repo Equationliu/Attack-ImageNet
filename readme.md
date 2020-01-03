@@ -12,7 +12,7 @@ Tricks:
 
 Part of the attacked images:
 
-![](image.png)
+![](image.jpg)
 
 ## Environment
 
